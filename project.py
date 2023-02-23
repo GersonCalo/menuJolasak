@@ -1,5 +1,6 @@
 #MENU NAGUSIA, joko bakoitza funtzio baten zortuko da.
 
+
 def MENU_NAGUSIA():
     while True:
         print("\nMENUA")
