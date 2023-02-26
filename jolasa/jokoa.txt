@@ -6,27 +6,27 @@
 
 Bakoitzetik 5 galdera
 -Artes:
-	1.¿Cómo se llama este pintor que se cortó la oreja? 
+	1.Nola du izena belarria moztu zuen margolariak? 
 	-Henri de Toulouse-Lautrec
 	-Paul Cézanne
 	-Salvador Dalí
 	-Vicent van gogh.
-	2.¿Quién de ellos NO fue un muralista mexicano?
+	2.Horietako nor EZ zen izan muralista mexikar bat?
 	-Pedro Lira.
 	-Diego Rivera
 	-David Alfaro Siqueiros
 	-Jose Clemente Orozco
-	3.Esta obra, llamada "Guernica" es de...
+	3.Nork margotu zuen "Guernica"
 	-M. C. Escher
 	-Diego Rivera
 	-Pablo Picasso. 
 	-Henri Matisse
-	4.¿Quien de estos/as artistas no era de España?
+	4.Artista hauetako nor ez zen Espainiakoa?
 	-El Greco
 	-Rufino Tamayo.
 	-Pablo Picasso 
 	-Remedios Varo
-	5.¿Quién de ellas no fue una pintora famosa?
+	5.Horietako nor ez zen izan margolari ospetsu bat?
 	-Leonora Carrington
 	-Remedios Varo
 	-Frida Kahlo
