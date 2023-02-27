@@ -40,10 +40,10 @@ Bakoitzetik 5 galdera
 	2.Zein da argiaren abiadura?(kilometro segundoko)
 	-300.000 kilometro segundoko
 	3.Zer zientzia ikasten du odolak?
-	-La hematología.
-	-Cosmología 
-	-neurociencia
-	-osteología
+	-Hematologia.
+	-kosmologia
+	-neurozientzia
+	-osteologia
 	4.Zenbat elementu ditu taula periodikoak?
 	118
 	5.Zein hilabetetan dago eguzkia Lurretik hurbilen?
