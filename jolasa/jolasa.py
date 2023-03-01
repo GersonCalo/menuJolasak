@@ -159,7 +159,7 @@ def Zientziak():
             print("Ondo erantzun duzu")
             puntuak += 10
             break
-        elif galdera > argia:
+        elif galdera > tabla:
             print ("Erantzuna txikiagoa da")
         else:
             print("Erantzuna handiagoa da")
@@ -439,34 +439,35 @@ def historia():
             print("Erantzuna handiagoa da")
             aukerak += 1
     print("Lortutako puntuak hauek dira: ", puntuak)
-    
-bukle = True
-while(bukle):
 
-    print("**********************************************")
-    print("*  1.artes                                   *")
-    print("*  2.Zientziak                               *")
-    print("*  3.Kirolak                                 *")
-    print("*  4.geografia                               *")
-    print("*  5.historia                                *")
-    print("*  0.MENUTIK IRTETZEKO                       *")
-    print("**********************************************")
+def menua():
+    bukle = True
+    while(bukle):
 
-    menukoznb = int(input("Sartu zenbaki bat: "))
+        print("**********************************************")
+        print("*  1.artes                                   *")
+        print("*  2.Zientziak                               *")
+        print("*  3.Kirolak                                 *")
+        print("*  4.geografia                               *")
+        print("*  5.historia                                *")
+        print("*  0.MENUTIK IRTETZEKO                       *")
+        print("**********************************************")
+
+        menukoznb = int(input("Sartu zenbaki bat: "))
 
 
-    if menukoznb == 1:
-        artes()
-    elif menukoznb == 2:
-        Zientziak()
-    elif menukoznb == 3:
-       kirolak()
-    elif menukoznb == 4:
-       geografia()
-    elif menukoznb == 4:
-       historia()
-    if menukoznb == 0:
-        bukle = False
-        print("Eskerrik asko menu hau ikusteagatik")    
-    else:
-        print("Sartu berriz zenbakia")
+        if menukoznb == 1:
+            artes()
+        elif menukoznb == 2:
+            Zientziak()
+        elif menukoznb == 3:
+            kirolak()
+        elif menukoznb == 4:
+            geografia()
+        elif menukoznb == 5:
+            historia()
+        if menukoznb == 0:
+            bukle = False
+            print("Eskerrik asko menu hau ikusteagatik")    
+        else:
+            print("Sartu berriz zenbakia")
