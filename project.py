@@ -1,5 +1,6 @@
 #MENU NAGUSIA, joko bakoitza funtzio baten zortuko da.
 import PPT
+import jolasa.tribial
 def MENU_NAGUSIA():
     while True:
         print("\nMENUA")
