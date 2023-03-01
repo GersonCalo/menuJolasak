@@ -1,4 +1,4 @@
-import project
+
 
 def artes():
     puntuak = 0
@@ -470,8 +470,8 @@ def menua():
             historia()
         if menukoznb == 0:
             bukle = False
-            print("Eskerrik asko menu hau ikusteagatik") 
-            project.MENU_NAGUSIA()   
+            print("Eskerrik asko menu hau ikusteagatik")   
         else:
             print("Sartu berriz zenbakia")
 
+menua()
