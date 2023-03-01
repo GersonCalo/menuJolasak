@@ -1,5 +1,5 @@
 #MENU NAGUSIA, joko bakoitza funtzio baten zortuko da.
-
+import PPT
 def MENU_NAGUSIA():
     while True:
         print("\nMENUA")
