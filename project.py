@@ -1,11 +1,11 @@
 #MENU NAGUSIA, joko bakoitza funtzio baten zortuko da.
-import PPT
+
 def MENU_NAGUSIA():
     while True:
         print("\nMENUA")
         print("======================")
         print("1 Lehenengo jokoa")#gerson 
-        print("2 Bigarren jokoa")
+        print("2 Tribial(Aritz)")
         print("3 Hirugarren jokoa")
         print("0- Irten")
 
@@ -33,10 +33,10 @@ def MENU_NAGUSIA():
 #------------------------------------------------------------------------
 
 #------------------------------------------------------------------------   
-
+#ARITZ
 def jokoa2():
     #JOKO codea
-    MENU_NAGUSIA()
+    jolasa.tribial.menua()
 #------------------------------------------------------------------------
 
 def jokoa3():

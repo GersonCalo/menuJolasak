@@ -1,0 +1,102 @@
+-Artes
+-Zientzia
+-Kirolak  
+-Geografia 
+-Historia
+
+Bakoitzetik 5 galdera
+-Artes:
+	1.Nola du izena belarria moztu zuen margolariak? 
+	-Henri de Toulouse-Lautrec
+	-Paul Cézanne
+	-Salvador Dalí
+	-Vicent van gogh.
+	2.Horietako nor EZ zen izan muralista mexikar bat?
+	-Pedro Lira.
+	-Diego Rivera
+	-David Alfaro Siqueiros
+	-Jose Clemente Orozco
+	3.Nork margotu zuen "Guernica"
+	-M. C. Escher
+	-Diego Rivera
+	-Pablo Picasso. 
+	-Henri Matisse
+	4.Artista hauetako nor ez zen Espainiakoa?
+	-El Greco
+	-Rufino Tamayo.
+	-Pablo Picasso 
+	-Remedios Varo
+	5.Horietako nor ez zen izan margolari ospetsu bat?
+	-Leonora Carrington
+	-Remedios Varo
+	-Frida Kahlo
+	-Virginia Woolf.
+-Zientzia
+	1.Zer izen du altueraren beldurrak?
+	-Acrofobia.
+	-Tanatofobia
+	-Hipocondría
+	-Nictofobia
+	2.Zein da argiaren abiadura?(kilometro segundoko)
+	-300.000 kilometro segundoko
+	3.Zer zientzia ikasten du odolak?
+	-Hematologia.
+	-kosmologia
+	-neurozientzia
+	-osteologia
+	4.Zenbat elementu ditu taula periodikoak?
+	118
+	5.Zein hilabetetan dago eguzkia Lurretik hurbilen?
+	-Abendua
+-Kirolak
+	1.Noiz ospatu zen lehen munduko futbol txapelketa?
+	-1928ko apirilaren 16an
+	-1930eko uztailaren 13an.
+	-1933ko urtarrilaren 28an
+	-1935eko urtarrilaren 2an
+	2.Zenbat kilometroko distantzia du maratoi batek?
+	-41.85 km
+	-42.16 km.
+	-43.77 km
+	-43.45 km
+	3.Zeintzuk dira Joko Olinpikoetako eraztunaren bost koloreak?
+	-Urdina, gorria, horia, berdea eta beltza.
+	-Urdina, gorria, horia, berdea eta morea
+	-horia, gorria, morea, berdea eta beltza
+	-Urdina, gorria, horia, laranja eta berdea
+	4."Manny Pacquiao" zein herrialdetako boxeolari mitikoa da?
+	-Corea
+	-Filipinas.
+	-China
+	-México
+	5.Zenbat aldiz irabazi zituen Michael Jordanek txapelketak Chicago Bullsentzat?
+	6.
+-Geografia
+	1.Zein da Iberiar Penintsulako ibairik luzeena?
+	-Tajo
+	2.Zenbat ozeano daude Lurrean?
+	-5.
+	3.Zein herrialdek ez du ibairik?(erantzun bat baino gehiago daude)
+	-Ibairik ez duten hainbat herrialde daude, 17 inguru, hala nola: Malta, Europan, Qatar, Asian, Tuvalu, Ozeanian edo Comoras, Afrikan.
+	4.Zein herrialdetan hitz egiten dira hizkuntza gehiago?
+	-Papúa Nueva Guinea.
+	-uzbekistan
+	-Timor Oriental
+	-Suriname
+	5.Zer ibai igarotzen da herrialde gehiagotara?
+	-El Danubio.
+	-Amazonas 
+	-Río Yeniséi
+	-Rio Obi
+-Historia
+	1.Zenbat iraun zuen Ehun Urteko Gerrak?
+	-116 años
+	2.Zein urtetan desegin zen Sobietar Batasuna?
+	-1991
+	3.Zein hiritan bildu ziren Hitler eta Franco?
+	-En Hendaya.
+	-Colonia
+	-Nantes
+	-Madrid
+	4.Zenbat iraun zuen Espainiako Bigarren Errepublikak?
+	-8 años.
