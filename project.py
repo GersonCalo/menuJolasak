@@ -18,7 +18,7 @@ def MENU_NAGUSIA():
             break
 
         elif aukera == 2:
-            jokoa2()
+            jolasa.tribial.menua()
             break
         elif aukera == 3:
             jokoa3()
@@ -38,9 +38,8 @@ def jokoa1():
     MENU_NAGUSIA()
 #------------------------------------------------------------------------   
 #ARITZ
-def jokoa2():
-    #JOKO codea
-    jolasa.tribial.menua()
+
+   
 #------------------------------------------------------------------------
 
 def jokoa3():
