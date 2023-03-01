@@ -1,5 +1,5 @@
 #MENU NAGUSIA, joko bakoitza funtzio baten zortuko da.
-
+import PPT
 def MENU_NAGUSIA():
     while True:
         print("\nMENUA")
@@ -13,7 +13,7 @@ def MENU_NAGUSIA():
         aukera = int(input("Zein eragiketa egin nahi duzu? "))
 
         if aukera == 1:
-            jokoa1()        
+            PPT.jokoa1()
             break
 
         elif aukera == 2:
@@ -31,10 +31,7 @@ def MENU_NAGUSIA():
             print("SARTUTAKO AUKERA EZ DU BALIO.")
 
 #------------------------------------------------------------------------
-#GERSON
-def jokoa1():
-    #JOKO codea
-    MENU_NAGUSIA()
+
 #------------------------------------------------------------------------   
 
 def jokoa2():
